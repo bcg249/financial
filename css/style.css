@@ -51,7 +51,9 @@ p {
     font-size: 22px
 }
 
-body {background-color: rgb(255, 250, 249);font-family: "Courier New", Courier, monospace}
+body {background-color: rgb(255, 250, 249);font-family: 'Roboto Slab', serif;}
+
+/*backup font: font-family: "Courier New", Courier, monospace*/
 
 header{
    /* width:100%;*/
